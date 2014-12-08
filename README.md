@@ -9,6 +9,7 @@ persoNews uses ElasticSearch in the background as a search engine to compare doc
 Installation of Components:
 
   Python
+  
   For this project, we are using Python 2.7. Python can be installed by downloading the installer package from the Python website ("https://www.python.org/download/releases/2.7/")
 
   Python modules used:
@@ -21,10 +22,12 @@ Installation of Components:
   *All these modules can be installed from command prompt. Type 'pip install modulename'
 
   Flask
+  
   Flask is used to integrate all the python codes and the hmtl files together. It is easy to manage and it provides simple command to deploy your project to Heroku. 
 
 
   ElasticSearch
+  
   To install ElasticSearch, download the installer package from ("http://www.elasticsearch.org/download/") 
   After completing the installation, you can run the ElasticSearch instance by typing './elasticsearch -f' in you command     prompt, from your local ElasticSearch folder.
 
