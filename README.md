@@ -33,11 +33,11 @@ Installation of Components:
 
 Getting Started
   
-  Clone this repository and put it inside your Flask app folder
-  Start ElasticSearch instance from your local machine.
-  Run TwitterSearchV2.py to populate data inside your ElasticSearch.
-  Run routes.py to start the app.
-    Now you can access persoNews from your local machine ('http://localhost:5000')
+    Clone this repository and put it inside your Flask app folder
+    Start ElasticSearch instance from your local machine.
+    Run TwitterSearchV2.py to populate data inside your ElasticSearch.
+    Run routes.py to start the app.
+      Now you can access persoNews from your local machine ('http://localhost:5000')
   
 
 
