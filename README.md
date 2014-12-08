@@ -18,7 +18,7 @@ Installation of Components:
     elasticsearch
     flask
   
-  *All these modules can be installed from command prompt. Type 'pip install <modulename>'
+  *All these modules can be installed from command prompt. Type 'pip install modulename'
 
   Flask
   Flask is used to integrate all the python codes and the hmtl files together. It is easy to manage and it provides simple command to deploy your project to Heroku. 
